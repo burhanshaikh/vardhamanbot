@@ -84,6 +84,9 @@
 - i am going to be absent tomorrow so how much will be my attendance
 - i'm going to be absent tomorrow so what will be my attendance
 - i am going to be absent tomorrow so predict my attendance
+- if i am absent today what will be my attendance
+- if i take a leave today what will be my attendance
+- if i am absent tomorrow what will be my attendance
 
 ## intent:appreciation
 - good
@@ -126,6 +129,7 @@
 
 ## intent:attendance
 - attendance
+- attendence
 - i wanna know my attendance
 - i want to know my attendance
 - whats my attendance?

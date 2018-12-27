@@ -9,7 +9,7 @@ async def reply(activity, bot, data):
         "glad to help",
         "It's my pleasure",
         "Sure thing!",
-        "I'm touched"
+        "Happy to help!"
     ]
     response = random.choice(responses)
     await bot.send_text_activity(activity, response)
